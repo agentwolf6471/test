@@ -9,7 +9,7 @@
 <body>
 <div class="home-screen">
 <?php
-hello
+echo hello
 ?>
 </div>
 </body>
