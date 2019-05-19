@@ -3,12 +3,12 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="mystyle.css"> <link rel="stylesheet" type="text/css" href="inc/mystyle.css">
 	<title>website</title>
-</head>10315487
+</head>
 
 <body>
 <div class="home-screen">
 <?php
-header("inc/header.html");
+hello
 ?>
 </div>
 </body>
