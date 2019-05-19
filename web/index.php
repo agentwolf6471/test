@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<div class="home-screen">
+<div id="home-screen">
 <?php
 echo hello
 ?>
