@@ -1,5 +1,10 @@
 #home-screen{
 	height:40px;
-	background-color:red;
 	width:40px;
+}
+
+.login-page{
+	height:100px;
+	width:max-width;
+	
 }
