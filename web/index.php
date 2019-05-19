@@ -1,4 +1,10 @@
- 
+ <!DOCTYPE html>
+<html>
+<body>
+
 <?php
- $http_origin = $_SERVER['HTTP_ORIGIN'];
-header("/inc/header.html")
+echo "My first PHP script!";
+?>
+
+</body>
+</html> 
