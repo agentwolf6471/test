@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html> 	
 <head>
-	<link rel="stylesheet" type="text/css" href="style.css"> 
+	<link rel="stylesheet" type="text/css" href="homescreen.css"> 
 	<link rel="stylesheet" type="text/css" href="reset.css"> 
 	<title>website</title>
 </head>
