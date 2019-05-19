@@ -8,7 +8,7 @@
 <body>
 <div class="home-screen">
 <?php
-header("header.html");
+header("inc/header.html");
 ?>
 </div>
 </body>
