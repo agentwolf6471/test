@@ -1,10 +1,11 @@
  <!DOCTYPE html>
-<html>
-<body>
+<html> 	
+<head>
+	 <link rel="stylesheet" type="text/css" href="inc/mystyle.css">
+	<title>website</title>
+</head>
 
-<?php
-echo "My first PHP script!";
-?>
+<body>
 
 </body>
 </html> 
