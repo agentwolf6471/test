@@ -1,7 +1,8 @@
  <!DOCTYPE html>
 <html> 	
 <head>
-	<link rel="stylesheet" type="text/css" href="inc/css/style.css"> 
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+	<link rel="stylesheet" type="text/css" href="reset.css"> 
 	<title>website</title>
 </head>
 
