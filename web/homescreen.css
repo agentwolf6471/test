@@ -1,10 +1,32 @@
 #home-screen{
-	height:40px;
-	width:40px;
+	height:100px;
+	width=100%;
+	background-color: red;
+	
+}
+.login-page{
+	padding: 10px;
 }
 
 .login-page{
-	height:100px;
-	width:max-width;
+	padding: 10px;
+}
+#password-form{
+float: left;
+position: relative;
+left: 100px;
+	
+}
+#username-form{
+	float: left;
+	position: :relative;
+}
+#button-form{
+	float: left;
+	position: relative;
+	left: 100px;
+	
+}
+.login-page button{
 	
 }
